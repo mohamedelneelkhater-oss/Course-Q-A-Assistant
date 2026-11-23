@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+pypdf
+python-docx
+reportlab
+chainlit
+torch
+transformers
+pandas
+matplotlib
