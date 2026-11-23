@@ -1,9 +1,4 @@
 # 🎓 Course Q&A RAG Assistant (CPU-Friendly)
-
-[![Open in Kaggle](https://shields.io)](https://kaggle.com)
-[![Python](https://shields.io)](https://python.org)
-[![Chainlit](https://shields.io)](https://chainlit.io)
-
 An end-to-end, lightweight **Retrieval-Augmented Generation (RAG)** system built purely in Python. Designed to run entirely on **CPU** without requiring paid APIs or GPUs, it answers student questions strictly from course materials across multiple file formats (`PDF`, `DOCX`, `CSV`, `TXT`) with exact **source attribution** and **hallucination guardrails**.
 
 ---
