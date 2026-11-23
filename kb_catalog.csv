@@ -1,0 +1,7 @@
+course,file,type,path,chunks
+Machine Learning,ml_lecture_notes.pdf,PDF,/kaggle/working/course_materials/machine_learning/ml_lecture_notes.pdf,6
+Machine Learning,ml_syllabus.txt,TXT,/kaggle/working/course_materials/machine_learning/ml_syllabus.txt,1
+Python Programming,python_lectures.docx,DOCX,/kaggle/working/course_materials/python_programming/python_lectures.docx,6
+Python Programming,python_syllabus.txt,TXT,/kaggle/working/course_materials/python_programming/python_syllabus.txt,1
+SQL and Databases,sql_glossary.csv,CSV,/kaggle/working/course_materials/sql_databases/sql_glossary.csv,14
+SQL and Databases,sql_syllabus.txt,TXT,/kaggle/working/course_materials/sql_databases/sql_syllabus.txt,1

@@ -1,0 +1,29 @@
+{
+  "best_model": "flan-t5-base",
+  "scores": [
+    {
+      "model": "flan-t5-base",
+      "keyword_recall": 0.9333,
+      "retrieval_hit": 1.0,
+      "avg_latency": 1.7457,
+      "speed_score": 0.5304,
+      "final_score": 0.8528
+    },
+    {
+      "model": "qwen2.5-0.5b-instruct",
+      "keyword_recall": 0.8667,
+      "retrieval_hit": 1.0,
+      "avg_latency": 4.9366,
+      "speed_score": 0.1876,
+      "final_score": 0.7308
+    },
+    {
+      "model": "flan-t5-small",
+      "keyword_recall": 0.6,
+      "retrieval_hit": 1.0,
+      "avg_latency": 0.926,
+      "speed_score": 1.0,
+      "final_score": 0.68
+    }
+  ]
+}

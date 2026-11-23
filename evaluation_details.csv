@@ -1,0 +1,46 @@
+model,question,answer,keyword_recall,retrieval_hit,latency
+flan-t5-small,What is overfitting and how can it be reduced?,"With more training data, regularization, cross-validation, early stopping and dropout.",1.0,True,0.8654320240020752
+flan-t5-small,What is the formula for precision?,[1],0.0,True,0.36382627487182617
+flan-t5-small,What does the learning rate control in gradient descent?,the step size of each update,1.0,True,0.4652571678161621
+flan-t5-small,Which activation functions are used in neural networks?,"ReLU, sigmoid and softmax",1.0,True,0.5776960849761963
+flan-t5-small,Who is the instructor of the Machine Learning course?,Sara Hassan,1.0,True,0.38161349296569824
+flan-t5-small,How is the Machine Learning course graded?,[3],0.0,True,0.35247230529785156
+flan-t5-small,What is the difference between a list and a tuple in Python?,"[2] Variables and Data Types. Python has built-in data types such as int, float, str, bool, list, tuple, dict and set. A list is mutable, which means it can be changed after creation, while a tuple is immutable.",1.0,True,3.8666529655456543
+flan-t5-small,What does the continue statement do?,skips the rest of the current iteration and moves to the next iteration,1.0,True,0.7767229080200195
+flan-t5-small,Which keyword is used to define a function in Python?,def,1.0,True,0.33243274688720703
+flan-t5-small,When are the Python course office hours?,Wednesdays from 1 PM to 3 PM,0.0,True,0.5257093906402588
+flan-t5-small,What is a primary key in SQL?,identifies each row in a table,0.0,True,0.5112881660461426
+flan-t5-small,What is the difference between WHERE and HAVING?,"SELECT HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAVING , HAV",0.0,True,3.6633033752441406
+flan-t5-small,What does ACID stand for?,"Atomicity, Consistency, Isolation and Durability",1.0,True,0.6235089302062988
+flan-t5-small,Which textbook is used in the SQL course?,[1],0.0,True,0.5616517066955566
+flan-t5-small,What is the capital of France?,I don't know based on the course materials.,1.0,,0.022105693817138672
+flan-t5-base,What is overfitting and how can it be reduced?,"Overfitting happens when a model memorizes the training data and performs poorly on new data. Overfitting can be reduced with more training data, regularization, cross-validation, early stopping and dropout.",1.0,True,4.26389217376709
+flan-t5-base,What is the formula for precision?,TP/(TP+FP),1.0,True,1.4353876113891602
+flan-t5-base,What does the learning rate control in gradient descent?,step size of each update,1.0,True,1.4046485424041748
+flan-t5-base,Which activation functions are used in neural networks?,"ReLU, sigmoid and softmax",1.0,True,1.5464890003204346
+flan-t5-base,Who is the instructor of the Machine Learning course?,Sara Hassan.,1.0,True,1.2289783954620361
+flan-t5-base,How is the Machine Learning course graded?,"assignments 30%, midterm exam 30%, final project 40%",1.0,True,1.7759664058685303
+flan-t5-base,What is the difference between a list and a tuple in Python?,"A list is mutable, which means it can be changed after creation, while a tuple is immutable.",1.0,True,3.7146668434143066
+flan-t5-base,What does the continue statement do?,skips the rest of the current iteration and moves to the next iteration.,1.0,True,2.0335347652435303
+flan-t5-base,Which keyword is used to define a function in Python?,def,1.0,True,1.0482127666473389
+flan-t5-base,When are the Python course office hours?,Sundays from 11 AM to 1 PM.,1.0,True,1.4617762565612793
+flan-t5-base,What is a primary key in SQL?,unique,1.0,True,0.8975512981414795
+flan-t5-base,What is the difference between WHERE and HAVING?,WHERE HAVING  SELECT count(*) FROM students WHERE age > 20,0.0,True,2.2781221866607666
+flan-t5-base,What does ACID stand for?,"Atomicity, Consistency, Isolation and Durability",1.0,True,1.7165765762329102
+flan-t5-base,Which textbook is used in the SQL course?,Database System Concepts by Silberschatz.,1.0,True,1.3559503555297852
+flan-t5-base,What is the capital of France?,I don't know based on the course materials.,1.0,,0.02312755584716797
+qwen2.5-0.5b-instruct,What is overfitting and how can it be reduced?,"Overfitting occurs when a model memorizes the training data and performs poorly on new data. To reduce overfitting, you can use more training data, regularization (e.g., L1/L2 regularization), cross-validation, early stopping, and dropout techniques.",1.0,True,9.754324674606323
+qwen2.5-0.5b-instruct,What is the formula for precision?,Precision = TP / (TP + FP),1.0,True,3.8915185928344727
+qwen2.5-0.5b-instruct,What does the learning rate control in gradient descent?,The learning rate controls the step size of each update in gradient descent. A larger learning rate leads to faster convergence but may result in overshooting the minimum. A smaller learning rate allows for slower convergence but reduces the risk of getting stuck in local minima.,1.0,True,10.074946880340576
+qwen2.5-0.5b-instruct,Which activation functions are used in neural networks?,Backpropagation computes the gradients of the loss with respect to the weights using the chain rule.,0.0,True,4.451153516769409
+qwen2.5-0.5b-instruct,Who is the instructor of the Machine Learning course?,The instructor of the Machine Learning course is Sara Hassan.,1.0,True,3.791611433029175
+qwen2.5-0.5b-instruct,How is the Machine Learning course graded?,"The Machine Learning course is graded using an assessment system that includes assignments (30%), midterms (30%) and a final project (40%).",1.0,True,6.192668676376343
+qwen2.5-0.5b-instruct,What is the difference between a list and a tuple in Python?,"A list is mutable, allowing its elements to be changed, whereas a tuple is immutable, meaning its elements cannot be modified once created.",1.0,True,5.202697277069092
+qwen2.5-0.5b-instruct,What does the continue statement do?,The continue statement in Python stops executing the remaining code within its block and moves to the next iteration of that block. It's used to skip over elements in a sequence (like lists or tuples) without affecting subsequent iterations.,1.0,True,7.043520450592041
+qwen2.5-0.5b-instruct,Which keyword is used to define a function in Python?,The keyword used to define a function in Python is `def`.,1.0,True,3.4630486965179443
+qwen2.5-0.5b-instruct,When are the Python course office hours?,The Python course office hours are Mondays from 11 AM to 1 PM.,0.0,True,4.207282781600952
+qwen2.5-0.5b-instruct,What is a primary key in SQL?,A primary key in SQL is a unique identifier for each row in a table. It must be unique and cannot be NULL.,1.0,True,4.611814260482788
+qwen2.5-0.5b-instruct,What is the difference between WHERE and HAVING?,"The WHERE clause filters rows before grouping, while the HAVING clause filters groups after GROUP BY.",1.0,True,3.7821245193481445
+qwen2.5-0.5b-instruct,What does ACID stand for?,"ACID stands for Atomicity, Consistency, Isolation, and Durability.",1.0,True,3.7109909057617188
+qwen2.5-0.5b-instruct,Which textbook is used in the SQL course?,"The textbook used in the SQL course is ""Database System Concepts"" by Silberschatz.",1.0,True,3.848344087600708
+qwen2.5-0.5b-instruct,What is the capital of France?,I don't know based on the course materials.,1.0,,0.02221989631652832

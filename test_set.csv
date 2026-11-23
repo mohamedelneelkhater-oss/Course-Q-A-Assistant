@@ -1,0 +1,16 @@
+question,source,keywords
+What is overfitting and how can it be reduced?,ml_lecture_notes.pdf,"['training data', 'regularization']"
+What is the formula for precision?,ml_lecture_notes.pdf,"['tp', 'fp']"
+What does the learning rate control in gradient descent?,ml_lecture_notes.pdf,['step size']
+Which activation functions are used in neural networks?,ml_lecture_notes.pdf,"['relu', 'sigmoid', 'softmax']"
+Who is the instructor of the Machine Learning course?,ml_syllabus.txt,['sara hassan']
+How is the Machine Learning course graded?,ml_syllabus.txt,"['30%', '40%']"
+What is the difference between a list and a tuple in Python?,python_lectures.docx,"['mutable', 'immutable']"
+What does the continue statement do?,python_lectures.docx,"['skip', 'next iteration']"
+Which keyword is used to define a function in Python?,python_lectures.docx,['def']
+When are the Python course office hours?,python_syllabus.txt,['sunday']
+What is a primary key in SQL?,sql_glossary.csv,['unique']
+What is the difference between WHERE and HAVING?,sql_glossary.csv,"['rows', 'groups']"
+What does ACID stand for?,sql_glossary.csv,"['atomicity', 'consistency', 'isolation', 'durability']"
+Which textbook is used in the SQL course?,sql_syllabus.txt,['silberschatz']
+What is the capital of France?,,"[""don't know""]"
